@@ -1,7 +1,7 @@
 import base64
 import requests
 
-SUB_URL = "https://zeus-panel-edqrba.zeus-ikyheb.workers.dev/feed/Nanaiiii"
+SUB_URL = "https://zeus-panel-gpta1l.naderimn83.workers.dev/feed/Nanaiii"
 
 r = requests.get(SUB_URL)
 r.raise_for_status()
